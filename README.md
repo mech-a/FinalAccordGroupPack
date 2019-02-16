@@ -38,18 +38,31 @@ If you experience sharp lagspikes, continually add 1 gig of RAM until it stops. 
 I highly recommend putting these Notes into "Edit Instance">"Notes"
 
 >Core Mods & getting started:
+
 >Applied Energistics 2 - https://ae2.ae-mod.info/
+
 >Better Builder's Wands - diagonal 2 sticks 1 bar/ore
+
 >Thaumcraft - mine a vis crystal
+
 >Botania - lexicana botanica (book & sapling)
+
 >IC2 - https://wiki.industrial-craft.net/index.php?title=Tutorial:First_Steps
+
 >Chisel - just make one!
+
 >Thermal - ???
+
 >Draconic Evolution - get the ore, surround with stone!
+
 >EnderIO - a tutorial video
+
 >Twilight Forest - https://i.imgur.com/PSDR3zA.png
+
 >Tinker's Construct - use Materials and Me, or refer to the curseforge page for the introductory 4 stations.
+
 >Immersive Engineering - Book with a lever
+
 >BuildCraft - https://ftb.gamepedia.com/Getting_Started_(BuildCraft)
 
 
